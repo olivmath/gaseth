@@ -3,4 +3,6 @@
     <string name="txtGasPrice">Qual o valor da Gasolina?</string>
     <string name="btnLaunch">Calcular</string>
     <string name="txtFeedbak">Use a barra para escolher o preço</string>
+    <string name="initResult">Álcool ou Gasolina?</string>
+    <string name="initGasPrice">R$ 0.00</string>
 </resources>
