@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GasEth</string>
+    <string name="txtGasPrice">Qual o valor da Gasolina?</string>
+    <string name="btnLaunch">Calcular</string>
+</resources>
