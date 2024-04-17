@@ -15,7 +15,7 @@
         <activity
             android:configChanges="orientation"
             android:screenOrientation="portrait"
-            android:name=".MainActivity"
+            android:name="com.olivmath.gaseth.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
